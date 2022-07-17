@@ -1,3 +1,3 @@
 https://anishpowar01.github.io/cv/
-Open this Link on Desktop 🖥️.
+Desktop Website 🖥️.
 #cv
